@@ -318,9 +318,6 @@ ro.incremental.enable=yes
 # Thermal
 vendor.sys.thermal.data.path=/data/vendor/thermal/
 
-# FM
-vendor.hw.fm.init=0
-
 # USB
 vendor.usb.use_ffs_mtp=1
 vendor.usb.diag.func.name=diag
